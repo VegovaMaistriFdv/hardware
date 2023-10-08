@@ -1,2 +1,2 @@
 # hardware
-nasa chalange
+NASA Space Apps Challenge
